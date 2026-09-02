@@ -1155,10 +1155,10 @@ main,
   object-position: center bottom;
   display: block;
 }
-.results-grid img {
+.campaign-img {
   width: 100%;
-  max-width: 420px;
+  max-width: 350px;
   height: auto;
   display: block;
-  margin: 0 auto 20px;
+  margin: 0 auto;
 }
