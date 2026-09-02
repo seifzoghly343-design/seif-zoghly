@@ -1162,3 +1162,10 @@ main,
   display: block;
   margin: 0 auto;
 }
+@media (max-width: 600px) {
+  .campaign-img {
+    width: 75%;
+    max-width: 280px;
+    height: auto;
+    margin: 0 auto;
+  }
